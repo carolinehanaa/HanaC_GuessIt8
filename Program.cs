@@ -1,10 +1,4 @@
-﻿/*Caroline Hana
-10-19-2022
-Guess It Mini Ch 8
-Peer Review -
-*/
-
-
+﻿
 
 int easy = 10;
 int medium = 50;
@@ -30,7 +24,7 @@ while (playAgain == "yes")
 
     while (answer != "easy" && answer != "medium" && answer != "hard")
     {
-        Console.WriteLine("Invalid response");
+        Console.WriteLine("Invalid response. Please enter easy (1-10), medium (1-50), or hard (1-100) ");
         answer = Console.ReadLine();
     }
 
@@ -82,7 +76,7 @@ while (playAgain == "yes")
         }
         else
         {
-            Console.WriteLine("Invalid reponse");
+            Console.WriteLine("Invalid reponse. Please enter a number: ");
         }
 
     }
