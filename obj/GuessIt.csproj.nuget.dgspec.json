@@ -1,25 +1,31 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\carol\\Documents\\CodeStack 22-23\\Level 1 Assignments\\HanaC_GitHubChallenge\\HanaC_MiniCh8\\GuessIt.csproj": {}
+    "C:\\Users\\danie\\OneDrive\\Documents\\Code Stack Academy\\Github Repository\\HanaC_GuessIt8\\GuessIt.csproj": {}
   },
   "projects": {
-    "C:\\Users\\carol\\Documents\\CodeStack 22-23\\Level 1 Assignments\\HanaC_GitHubChallenge\\HanaC_MiniCh8\\GuessIt.csproj": {
+    "C:\\Users\\danie\\OneDrive\\Documents\\Code Stack Academy\\Github Repository\\HanaC_GuessIt8\\GuessIt.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\carol\\Documents\\CodeStack 22-23\\Level 1 Assignments\\HanaC_GitHubChallenge\\HanaC_MiniCh8\\GuessIt.csproj",
+        "projectUniqueName": "C:\\Users\\danie\\OneDrive\\Documents\\Code Stack Academy\\Github Repository\\HanaC_GuessIt8\\GuessIt.csproj",
         "projectName": "GuessIt",
-        "projectPath": "C:\\Users\\carol\\Documents\\CodeStack 22-23\\Level 1 Assignments\\HanaC_GitHubChallenge\\HanaC_MiniCh8\\GuessIt.csproj",
-        "packagesPath": "C:\\Users\\carol\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\carol\\Documents\\CodeStack 22-23\\Level 1 Assignments\\HanaC_GitHubChallenge\\HanaC_MiniCh8\\obj\\",
+        "projectPath": "C:\\Users\\danie\\OneDrive\\Documents\\Code Stack Academy\\Github Repository\\HanaC_GuessIt8\\GuessIt.csproj",
+        "packagesPath": "C:\\Users\\danie\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\danie\\OneDrive\\Documents\\Code Stack Academy\\Github Repository\\HanaC_GuessIt8\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "C:\\Users\\carol\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\danie\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net6.0"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {

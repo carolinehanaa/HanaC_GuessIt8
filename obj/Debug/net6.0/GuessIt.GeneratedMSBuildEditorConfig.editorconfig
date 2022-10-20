@@ -7,4 +7,12 @@ build_property.InvariantGlobalization =
 build_property.PlatformNeutralAssembly = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = GuessIt
+<<<<<<< HEAD
 build_property.ProjectDir = C:\Users\carol\Documents\CodeStack 22-23\Level 1 Assignments\HanaC_GitHubChallenge\HanaC_MiniCh8\
+=======
+<<<<<<< HEAD
+build_property.ProjectDir = C:\Users\danie\OneDrive\Documents\Code Stack Academy\Github Repository\HanaC_GuessIt8\
+=======
+build_property.ProjectDir = c:\Users\carol\Documents\CodeStack 22-23\Level 1 Assignments\HanaC_GitHubChallenge\HanaC_MiniCh8\
+>>>>>>> 7920caa5e1d0f018bfd3e4e87ced50343e2ad9ff
+>>>>>>> 5e818427adb8d45e6e04731ca23a3f69923ed7a6
