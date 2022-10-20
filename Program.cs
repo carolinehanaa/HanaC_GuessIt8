@@ -3,22 +3,23 @@
 Guess it Mini Challenge #8 
 Try to guess the winning number*/
 
-int easy = 10;
-int medium = 50;
-int hard = 100;
-int winningNumber = 0;
-int userNum;
-int numTries = 0;
-string? answer;
-string? userGuess = "";
-bool validNum = false;
-bool guessAgain = true;
+
 
 Console.Clear();
 
 string? playAgain = "yes";
 while (playAgain == "yes")
 {
+    int easy = 10;
+    int medium = 50;
+    int hard = 100;
+    int winningNumber = 0;
+    int userNum;
+    int numTries = 0;
+    string? answer;
+    string? userGuess = "";
+    bool validNum = false;
+    bool guessAgain = true;
 
     Console.WriteLine("We are going to play a guessing game");
     Console.WriteLine("Enter easy (1-10), medium (1-50), or hard (1-100)");
